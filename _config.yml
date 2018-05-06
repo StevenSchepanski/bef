@@ -16,7 +16,7 @@ banner-desc: BANNER DESCRIPTION# add banner description
 # Author settings
 author-pic: Profesional Headshot.jpg # your photo
 author-name: Steven Schepanski # your name
-about-author: # about author
+about-author: Testing the Author Bio # about author
 email: sschepanski@gmail.com # your email
 phone: (561)-926-1227 # your pnone number
 website: https://dwayne.example.com # you website
@@ -33,7 +33,7 @@ facebook_url:  # add url link
 discus_identifier: mr-brown # add your discus identifier
 
 # Newsletter
-mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+# mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Tracker
 analytics:
