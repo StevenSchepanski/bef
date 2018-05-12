@@ -21,4 +21,4 @@ What does it do when I hop onto an new line like that?
 <!-- Trying to add a file -->
 
 Another plain text RANDOM paragraph...
-And end the article
+And end the article.
