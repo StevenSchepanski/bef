@@ -2,7 +2,7 @@
 layout: post
 title: "My first try"
 img: himalayan.jpg # Add image post (optional)
-date: 5-11-2018 <!-- Date format is YEAR-MONTH-DAY -->
+date: 2018-05-11 <!-- Date format is YEAR-MONTH-DAY -->
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: 
 ---
